@@ -49,6 +49,7 @@ A Generative AI application that extracts content from company websites and gene
 3. BeautifulSoup extracts and cleans the text.
 4. Groq API sends the content to an LLM.
 5. The AI generates an organized summary.
+<img width="1280" height="782" alt="image_1448-05-19_23-43-22" src="https://github.com/user-attachments/assets/81d6777a-3911-4404-9d21-75588660b410" />
 
 ## 👩‍💻 Author
 
